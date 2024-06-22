@@ -1,0 +1,12 @@
+setup.py
+neural_network/__init__.py
+neural_network/example_usage.py
+neural_network/model.py
+neural_network/test.py
+neural_network/train.py
+neural_network/utils.py
+neural_network.egg-info/PKG-INFO
+neural_network.egg-info/SOURCES.txt
+neural_network.egg-info/dependency_links.txt
+neural_network.egg-info/requires.txt
+neural_network.egg-info/top_level.txt
